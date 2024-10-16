@@ -1,8 +1,7 @@
-
-##GraphQL
+**GraphQL**
 GraphQL is a query language for APIs and a runtime for executing those queries. flexible alternative to REST by allowing clients to request exactly the data they need, and nothing more.
 
-###Benefits:
+***Benefits:***
 
 Efficient data retrieval: Specific Data retrieval which leads to efficient usage of network bandwidths .
 
