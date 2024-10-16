@@ -1,0 +1,26 @@
+{
+  "name": "graphql-prac",
+  "version": "1.0.0",
+  "description": "tutorial on graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniketJoshi111/GraphQL-Tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AniketJoshi111/GraphQL-Tutorial/issues"
+  },
+  "homepage": "https://github.com/AniketJoshi111/GraphQL-Tutorial#readme",
+  "dependencies": {
+    "@apollo/server": "^4.11.0",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "graphql": "^16.9.0"
+  }
+}
